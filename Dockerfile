@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10.2.1
 
 MAINTAINER David Bauske <david.bauske@voltstorage.com>
 

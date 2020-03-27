@@ -26,6 +26,3 @@ RUN dpkg-reconfigure --frontend noninteractive locales
 # postgres
 RUN apt install postgresql -y
 RUN apt install sudo -y
-
-
-

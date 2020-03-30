@@ -1,4 +1,4 @@
-FROM node:13.11.0
+FROM node:12.16.1-buster
 
 MAINTAINER David Bauske <david.bauske@voltstorage.com>
 
